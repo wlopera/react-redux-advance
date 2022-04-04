@@ -14,3 +14,7 @@ React-Redux Asíncrono Avanzado
 
 # Salida Manejo de error
 ![Captura2](https://user-images.githubusercontent.com/7141537/161325662-1d2c7484-444e-49c2-8d4d-441cb34141da.PNG)
+
+# Seguimiento del proceso redux en plugin - navegador
+![Captura](https://user-images.githubusercontent.com/7141537/161594425-020308d5-c59b-441d-8642-ce7429a71826.PNG)
+
